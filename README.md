@@ -33,5 +33,9 @@ Syscall: 3
 ```
 ***
 &NewLine;
+Link to another useful PoC: https://project-zero.issues.chromium.org/issues/42450993
+***
+&NewLine;
+
 
 
